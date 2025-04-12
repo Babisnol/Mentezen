@@ -4,7 +4,7 @@ projeto mentezen com cadastro de usuários e atividades
 # Tecnologias
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: Node.js + Express
+- Backend: Node.js
 - Banco de Dados: MySQL
 - Controle de Versão: Git + GitHub
 
