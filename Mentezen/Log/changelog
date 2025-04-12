@@ -1,0 +1,11 @@
+# Changelog
+
+## [1.1.0] - 2025-04-06
+### Adicionado
+- Backend Node.js com conexão MySQL
+- Cadastro funcional com envio via fetch
+
+## [1.0.0] - 2025-04-05
+### Adicionado
+- Estrutura básica do site
+- Layout HTML/CSS

@@ -1,0 +1,73 @@
+** {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+header {
+  background-color: #4a90e2;
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.highlight {
+  color: #ffcc00;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #4a90e2;
+}
+
+.Tarefas {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.Tarefas li {
+  background: #4a90e2;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 20px;
+  list-style: none;
+}
+
+.socials a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #4a90e2;
+  font-weight: bold;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background-color: #ffcc00;
+  color: #333;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #e1e1e1;
+  color: #666;
+}
